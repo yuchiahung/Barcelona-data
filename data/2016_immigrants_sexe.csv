@@ -1,0 +1,149 @@
+"Any","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Sexe","Nombre"
+2016,1,"Ciutat Vella",1,"el Raval","Homes",2819
+2016,1,"Ciutat Vella",2,"el Barri Gòtic","Homes",1135
+2016,1,"Ciutat Vella",3,"la Barceloneta","Homes",785
+2016,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Homes",1210
+2016,2,"Eixample",5,"el Fort Pienc","Homes",962
+2016,2,"Eixample",6,"la Sagrada Família","Homes",1472
+2016,2,"Eixample",7,"la Dreta de l'Eixample","Homes",1367
+2016,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Homes",1412
+2016,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Homes",1667
+2016,2,"Eixample",10,"Sant Antoni","Homes",1067
+2016,3,"Sants-Montjuïc",11,"el Poble Sec","Homes",1439
+2016,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Homes",18
+2016,3,"Sants-Montjuïc",13,"la Marina de Port","Homes",622
+2016,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Homes",302
+2016,3,"Sants-Montjuïc",15,"Hostafrancs","Homes",518
+2016,3,"Sants-Montjuïc",16,"la Bordeta","Homes",442
+2016,3,"Sants-Montjuïc",17,"Sants - Badal","Homes",642
+2016,3,"Sants-Montjuïc",18,"Sants","Homes",1121
+2016,4,"Les Corts",19,"les Corts","Homes",977
+2016,4,"Les Corts",20,"la Maternitat i Sant Ramon","Homes",588
+2016,4,"Les Corts",21,"Pedralbes","Homes",369
+2016,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Homes",75
+2016,5,"Sarrià-Sant Gervasi",23,"Sarrià","Homes",542
+2016,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Homes",264
+2016,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Homes",526
+2016,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Homes",1041
+2016,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Homes",580
+2016,6,"Gràcia",28,"Vallcarca i els Penitents","Homes",325
+2016,6,"Gràcia",29,"el Coll","Homes",161
+2016,6,"Gràcia",30,"la Salut","Homes",304
+2016,6,"Gràcia",31,"la Vila de Gràcia","Homes",1405
+2016,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Homes",702
+2016,7,"Horta-Guinardó",33,"el Baix Guinardó","Homes",510
+2016,7,"Horta-Guinardó",34,"Can Baró","Homes",174
+2016,7,"Horta-Guinardó",35,"el Guinardó","Homes",774
+2016,7,"Horta-Guinardó",36,"la Font d'en Fargues","Homes",99
+2016,7,"Horta-Guinardó",37,"el Carmel","Homes",555
+2016,7,"Horta-Guinardó",38,"la Teixonera","Homes",268
+2016,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Homes",177
+2016,7,"Horta-Guinardó",40,"Montbau","Homes",97
+2016,7,"Horta-Guinardó",41,"la Vall d'Hebron","Homes",113
+2016,7,"Horta-Guinardó",42,"la Clota","Homes",8
+2016,7,"Horta-Guinardó",43,"Horta","Homes",463
+2016,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Homes",447
+2016,8,"Nou Barris",45,"Porta","Homes",548
+2016,8,"Nou Barris",46,"el Turó de la Peira","Homes",336
+2016,8,"Nou Barris",47,"Can Peguera","Homes",31
+2016,8,"Nou Barris",48,"la Guineueta","Homes",204
+2016,8,"Nou Barris",49,"Canyelles","Homes",64
+2016,8,"Nou Barris",50,"les Roquetes","Homes",383
+2016,8,"Nou Barris",51,"Verdun","Homes",273
+2016,8,"Nou Barris",52,"la Prosperitat","Homes",475
+2016,8,"Nou Barris",53,"la Trinitat Nova","Homes",171
+2016,8,"Nou Barris",54,"Torre Baró","Homes",55
+2016,8,"Nou Barris",55,"Ciutat Meridiana","Homes",316
+2016,8,"Nou Barris",56,"Vallbona","Homes",37
+2016,9,"Sant Andreu",57,"la Trinitat Vella","Homes",300
+2016,9,"Sant Andreu",58,"Baró de Viver","Homes",40
+2016,9,"Sant Andreu",59,"el Bon Pastor","Homes",251
+2016,9,"Sant Andreu",60,"Sant Andreu","Homes",854
+2016,9,"Sant Andreu",61,"la Sagrera","Homes",533
+2016,9,"Sant Andreu",62,"el Congrés i els Indians","Homes",251
+2016,9,"Sant Andreu",63,"Navas","Homes",443
+2016,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Homes",920
+2016,10,"Sant Martí",65,"el Clot","Homes",570
+2016,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Homes",450
+2016,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Homes",196
+2016,10,"Sant Martí",68,"el Poblenou","Homes",807
+2016,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Homes",337
+2016,10,"Sant Martí",70,"el Besòs i el Maresme","Homes",871
+2016,10,"Sant Martí",71,"Provençals del Poblenou","Homes",398
+2016,10,"Sant Martí",72,"Sant Martí de Provençals","Homes",502
+2016,10,"Sant Martí",73,"la Verneda i la Pau","Homes",506
+2016,99,"No consta",99,"No consta","Homes",4
+2016,1,"Ciutat Vella",1,"el Raval","Dones",2157
+2016,1,"Ciutat Vella",2,"el Barri Gòtic","Dones",1063
+2016,1,"Ciutat Vella",3,"la Barceloneta","Dones",763
+2016,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Dones",1167
+2016,2,"Eixample",5,"el Fort Pienc","Dones",1032
+2016,2,"Eixample",6,"la Sagrada Família","Dones",1683
+2016,2,"Eixample",7,"la Dreta de l'Eixample","Dones",1576
+2016,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Dones",1499
+2016,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Dones",1819
+2016,2,"Eixample",10,"Sant Antoni","Dones",1079
+2016,3,"Sants-Montjuïc",11,"el Poble Sec","Dones",1290
+2016,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Dones",17
+2016,3,"Sants-Montjuïc",13,"la Marina de Port","Dones",679
+2016,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Dones",298
+2016,3,"Sants-Montjuïc",15,"Hostafrancs","Dones",505
+2016,3,"Sants-Montjuïc",16,"la Bordeta","Dones",445
+2016,3,"Sants-Montjuïc",17,"Sants - Badal","Dones",724
+2016,3,"Sants-Montjuïc",18,"Sants","Dones",1201
+2016,4,"Les Corts",19,"les Corts","Dones",1070
+2016,4,"Les Corts",20,"la Maternitat i Sant Ramon","Dones",622
+2016,4,"Les Corts",21,"Pedralbes","Dones",366
+2016,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Dones",75
+2016,5,"Sarrià-Sant Gervasi",23,"Sarrià","Dones",589
+2016,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Dones",348
+2016,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Dones",597
+2016,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Dones",1228
+2016,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Dones",691
+2016,6,"Gràcia",28,"Vallcarca i els Penitents","Dones",354
+2016,6,"Gràcia",29,"el Coll","Dones",171
+2016,6,"Gràcia",30,"la Salut","Dones",305
+2016,6,"Gràcia",31,"la Vila de Gràcia","Dones",1650
+2016,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Dones",803
+2016,7,"Horta-Guinardó",33,"el Baix Guinardó","Dones",550
+2016,7,"Horta-Guinardó",34,"Can Baró","Dones",200
+2016,7,"Horta-Guinardó",35,"el Guinardó","Dones",852
+2016,7,"Horta-Guinardó",36,"la Font d'en Fargues","Dones",103
+2016,7,"Horta-Guinardó",37,"el Carmel","Dones",598
+2016,7,"Horta-Guinardó",38,"la Teixonera","Dones",268
+2016,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Dones",170
+2016,7,"Horta-Guinardó",40,"Montbau","Dones",134
+2016,7,"Horta-Guinardó",41,"la Vall d'Hebron","Dones",98
+2016,7,"Horta-Guinardó",42,"la Clota","Dones",15
+2016,7,"Horta-Guinardó",43,"Horta","Dones",506
+2016,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Dones",509
+2016,8,"Nou Barris",45,"Porta","Dones",618
+2016,8,"Nou Barris",46,"el Turó de la Peira","Dones",381
+2016,8,"Nou Barris",47,"Can Peguera","Dones",37
+2016,8,"Nou Barris",48,"la Guineueta","Dones",260
+2016,8,"Nou Barris",49,"Canyelles","Dones",65
+2016,8,"Nou Barris",50,"les Roquetes","Dones",469
+2016,8,"Nou Barris",51,"Verdun","Dones",303
+2016,8,"Nou Barris",52,"la Prosperitat","Dones",624
+2016,8,"Nou Barris",53,"la Trinitat Nova","Dones",174
+2016,8,"Nou Barris",54,"Torre Baró","Dones",70
+2016,8,"Nou Barris",55,"Ciutat Meridiana","Dones",310
+2016,8,"Nou Barris",56,"Vallbona","Dones",28
+2016,9,"Sant Andreu",57,"la Trinitat Vella","Dones",245
+2016,9,"Sant Andreu",58,"Baró de Viver","Dones",44
+2016,9,"Sant Andreu",59,"el Bon Pastor","Dones",233
+2016,9,"Sant Andreu",60,"Sant Andreu","Dones",896
+2016,9,"Sant Andreu",61,"la Sagrera","Dones",646
+2016,9,"Sant Andreu",62,"el Congrés i els Indians","Dones",299
+2016,9,"Sant Andreu",63,"Navas","Dones",470
+2016,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Dones",974
+2016,10,"Sant Martí",65,"el Clot","Dones",589
+2016,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Dones",406
+2016,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Dones",195
+2016,10,"Sant Martí",68,"el Poblenou","Dones",813
+2016,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Dones",332
+2016,10,"Sant Martí",70,"el Besòs i el Maresme","Dones",704
+2016,10,"Sant Martí",71,"Provençals del Poblenou","Dones",407
+2016,10,"Sant Martí",72,"Sant Martí de Provençals","Dones",535
+2016,10,"Sant Martí",73,"la Verneda i la Pau","Dones",501
+2016,99,"No consta",99,"No consta","Dones",5
