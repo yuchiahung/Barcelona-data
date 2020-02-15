@@ -1,0 +1,198 @@
+﻿ISO  ,Nacionalitat,Regio,Continent  
+ALB  ,Albània  ,Europa meridional  ,Europa  
+AND  ,Andorra  ,Europa meridional  ,Europa  
+BIH  ,Bòsnia i Hercegovina  ,Europa meridional  ,Europa  
+HRV  ,Croàcia  ,Europa meridional  ,Europa  
+SVN  ,Eslovènia  ,Europa meridional  ,Europa  
+ESP  ,Espanya  ,Europa meridional  ,Europa  
+GRC  ,Grècia  ,Europa meridional  ,Europa  
+ITA  ,Itàlia  ,Europa meridional  ,Europa  
+MKD  ,Macedònia  ,Europa meridional  ,Europa  
+MLT  ,Malta  ,Europa meridional  ,Europa  
+MNE  ,Montenegro  ,Europa meridional  ,Europa  
+PRT  ,Portugal  ,Europa meridional  ,Europa  
+SMR  ,San Marino  ,Europa meridional  ,Europa  
+VAT  ,Santa Seu  ,Europa meridional  ,Europa  
+SRB  ,Sèrbia  ,Europa meridional  ,Europa  
+DEU  ,Alemanya  ,Europa occidental  ,Europa  
+AUT  ,Àustria  ,Europa occidental  ,Europa  
+BEL  ,Bèlgica  ,Europa occidental  ,Europa  
+FRA  ,França  ,Europa occidental  ,Europa  
+LIE  ,Liechtenstein  ,Europa occidental  ,Europa  
+LUX  ,Luxemburg  ,Europa occidental  ,Europa  
+MCO  ,Mònaco  ,Europa occidental  ,Europa  
+NLD  ,Països Baixos  ,Europa occidental  ,Europa  
+CHE  ,Suïssa  ,Europa occidental  ,Europa  
+BLR  ,Belarús  ,Europa oriental  ,Europa  
+BGR  ,Bulgària  ,Europa oriental  ,Europa  
+SVK  ,Eslovàquia  ,Europa oriental  ,Europa  
+HUN  ,Hongria  ,Europa oriental  ,Europa  
+MDA  ,Moldàvia  ,Europa oriental  ,Europa  
+POL  ,Polònia  ,Europa oriental  ,Europa  
+ROU  ,Romania  ,Europa oriental  ,Europa  
+RUS  ,Rússia  ,Europa oriental  ,Europa  
+CZE  ,Txèquia  ,Europa oriental  ,Europa  
+UKR  ,Ucraïna  ,Europa oriental  ,Europa  
+DNK  ,Dinamarca  ,Europa septentrional  ,Europa  
+EST  ,Estònia  ,Europa septentrional  ,Europa  
+FIN  ,Finlàndia  ,Europa septentrional  ,Europa  
+IRL  ,Irlanda  ,Europa septentrional  ,Europa  
+ISL  ,Islàndia  ,Europa septentrional  ,Europa  
+LVA  ,Letònia  ,Europa septentrional  ,Europa  
+LTU  ,Lituània  ,Europa septentrional  ,Europa  
+NOR  ,Noruega  ,Europa septentrional  ,Europa  
+GBR  ,Regne Unit  ,Europa septentrional  ,Europa  
+SWE  ,Suècia  ,Europa septentrional  ,Europa  
+AGO  ,Angola  ,Àfrica central  ,Àfrica  
+CMR  ,Camerun  ,Àfrica central  ,Àfrica  
+COG  ,Congo  ,Àfrica central  ,Àfrica  
+GAB  ,Gabon  ,Àfrica central  ,Àfrica  
+GNQ  ,Guinea Equatorial  ,Àfrica central  ,Àfrica  
+CAF  ,República Centreafricana  ,Àfrica central  ,Àfrica  
+COD  ,República Democràtica del Congo  ,Àfrica central  ,Àfrica  
+STP  ,São Tomé i Príncipe  ,Àfrica central  ,Àfrica  
+TCD  ,Txad  ,Àfrica central  ,Àfrica  
+BWA  ,Botswana  ,Àfrica meridional  ,Àfrica  
+LSO  ,Lesotho  ,Àfrica meridional  ,Àfrica  
+NAM  ,Namíbia  ,Àfrica meridional  ,Àfrica  
+ZAF  ,Sud-àfrica  ,Àfrica meridional  ,Àfrica  
+SWZ  ,Swaziland  ,Àfrica meridional  ,Àfrica  
+BEN  ,Benín  ,Àfrica occidental  ,Àfrica  
+BFA  ,Burkina Faso  ,Àfrica occidental  ,Àfrica  
+CPV  ,Cap Verd  ,Àfrica occidental  ,Àfrica  
+CIV  ,Costa d'Ivori  ,Àfrica occidental  ,Àfrica  
+GMB  ,Gàmbia  ,Àfrica occidental  ,Àfrica  
+GHA  ,Ghana  ,Àfrica occidental  ,Àfrica  
+GIN  ,Guinea  ,Àfrica occidental  ,Àfrica  
+GNB  ,Guinea-Bissau  ,Àfrica occidental  ,Àfrica  
+LBR  ,Libèria  ,Àfrica occidental  ,Àfrica  
+MLI  ,Mali  ,Àfrica occidental  ,Àfrica  
+MRT  ,Mauritània  ,Àfrica occidental  ,Àfrica  
+NER  ,Níger  ,Àfrica occidental  ,Àfrica  
+NGA  ,Nigèria  ,Àfrica occidental  ,Àfrica  
+SEN  ,Senegal  ,Àfrica occidental  ,Àfrica  
+SLE  ,Sierra Leone  ,Àfrica occidental  ,Àfrica  
+TGO  ,Togo  ,Àfrica occidental  ,Àfrica  
+BDI  ,Burundi  ,Àfrica oriental  ,Àfrica  
+COM  ,"Comores, les  ",Àfrica oriental  ,Àfrica  
+DJI  ,Djibouti  ,Àfrica oriental  ,Àfrica  
+ERI  ,Eritrea  ,Àfrica oriental  ,Àfrica  
+ETH  ,Etiòpia  ,Àfrica oriental  ,Àfrica  
+KEN  ,Kenya  ,Àfrica oriental  ,Àfrica  
+MDG  ,Madagascar  ,Àfrica oriental  ,Àfrica  
+MWI  ,Malawi  ,Àfrica oriental  ,Àfrica  
+MUS  ,Maurici  ,Àfrica oriental  ,Àfrica  
+MOZ  ,Moçambic  ,Àfrica oriental  ,Àfrica  
+RWA  ,Ruanda  ,Àfrica oriental  ,Àfrica  
+SYC  ,Seychelles  ,Àfrica oriental  ,Àfrica  
+SOM  ,Somàlia  ,Àfrica oriental  ,Àfrica  
+TZA  ,Tanzània  ,Àfrica oriental  ,Àfrica  
+UGA  ,Uganda  ,Àfrica oriental  ,Àfrica  
+ZMB  ,Zàmbia  ,Àfrica oriental  ,Àfrica  
+ZWE  ,Zimbàbue  ,Àfrica oriental  ,Àfrica  
+DZA  ,Algèria  ,Àfrica septentrional  ,Àfrica  
+EGY  ,Egipte  ,Àfrica septentrional  ,Àfrica  
+LBY  ,Líbia  ,Àfrica septentrional  ,Àfrica  
+MAR  ,"Marroc, el  ",Àfrica septentrional  ,Àfrica  
+ESH  ,Sàhara Occidental  ,Àfrica septentrional  ,Àfrica  
+SSD  ,"Sudan del Sud, el  ",Àfrica septentrional  ,Àfrica  
+SDN  ,"Sudan, el  ",Àfrica septentrional  ,Àfrica  
+TUN  ,Tunísia  ,Àfrica septentrional  ,Àfrica  
+BLZ  ,Belize  ,Amèrica central  ,Amèrica  
+CRI  ,Costa Rica  ,Amèrica central  ,Amèrica  
+SLV  ,El Salvador  ,Amèrica central  ,Amèrica  
+GTM  ,Guatemala  ,Amèrica central  ,Amèrica  
+HND  ,Hondures  ,Amèrica central  ,Amèrica  
+MEX  ,Mèxic  ,Amèrica central  ,Amèrica  
+NIC  ,Nicaragua  ,Amèrica central  ,Amèrica  
+PAN  ,Panamà  ,Amèrica central  ,Amèrica  
+CAN  ,Canadà  ,Amèrica del Nord  ,Amèrica  
+USA  ,"Estats Units, els  ",Amèrica del Nord  ,Amèrica  
+ARG  ,Argentina  ,Amèrica del Sud  ,Amèrica  
+BOL  ,Bolívia  ,Amèrica del Sud  ,Amèrica  
+BRA  ,Brasil  ,Amèrica del Sud  ,Amèrica  
+COL  ,Colòmbia  ,Amèrica del Sud  ,Amèrica  
+ECU  ,Equador  ,Amèrica del Sud  ,Amèrica  
+GUY  ,Guyana  ,Amèrica del Sud  ,Amèrica  
+PRY  ,Paraguai  ,Amèrica del Sud  ,Amèrica  
+PER  ,Perú  ,Amèrica del Sud  ,Amèrica  
+SUR  ,Surinam  ,Amèrica del Sud  ,Amèrica  
+URY  ,Uruguai  ,Amèrica del Sud  ,Amèrica  
+VEN  ,Veneçuela  ,Amèrica del Sud  ,Amèrica  
+CHL  ,Xile  ,Amèrica del Sud  ,Amèrica  
+ATG  ,Antigua i Barbuda  ,Carib  ,Amèrica  
+BHS  ,"Bahames, les  ",Carib  ,Amèrica  
+BRB  ,Barbados  ,Carib  ,Amèrica  
+CUB  ,Cuba  ,Carib  ,Amèrica  
+DMA  ,Dominica  ,Carib  ,Amèrica  
+GRD  ,Grenada  ,Carib  ,Amèrica  
+HTI  ,Haití  ,Carib  ,Amèrica  
+JAM  ,Jamaica  ,Carib  ,Amèrica  
+DOM  ,República Dominicana  ,Carib  ,Amèrica  
+KNA  ,Saint Kitts i Nevis  ,Carib  ,Amèrica  
+LCA  ,Saint Lucia  ,Carib  ,Amèrica  
+VCT  ,Saint Vincent i les Grenadines  ,Carib  ,Amèrica  
+TTO  ,Trinidad i Tobago  ,Carib  ,Amèrica  
+KAZ  ,Kazakhstan  ,Àsia central  ,Àsia  
+KGZ  ,Kirguizstan  ,Àsia central  ,Àsia  
+TJK  ,Tadjikistan  ,Àsia central  ,Àsia  
+TKM  ,Turkmenistan  ,Àsia central  ,Àsia  
+UZB  ,Uzbekistan  ,Àsia central  ,Àsia  
+AFG  ,Afganistan  ,Àsia meridional  ,Àsia  
+BGD  ,Bangladesh  ,Àsia meridional  ,Àsia  
+BTN  ,Bhutan  ,Àsia meridional  ,Àsia  
+IND  ,Índia  ,Àsia meridional  ,Àsia  
+IRN  ,Iran  ,Àsia meridional  ,Àsia  
+MDV  ,Maldives  ,Àsia meridional  ,Àsia  
+NPL  ,Nepal  ,Àsia meridional  ,Àsia  
+PAK  ,Pakistan  ,Àsia meridional  ,Àsia  
+LKA  ,Sri Lanka  ,Àsia meridional  ,Àsia  
+SAU  ,Aràbia Saudí  ,Àsia occidental  ,Àsia  
+ARM  ,Armènia  ,Àsia occidental  ,Àsia  
+AZE  ,Azerbaidjan  ,Àsia occidental  ,Àsia  
+BHR  ,Bahrain  ,Àsia occidental  ,Àsia  
+ARE  ,"Emirats Àrabs Units, els  ",Àsia occidental  ,Àsia  
+GEO  ,Geòrgia  ,Àsia occidental  ,Àsia  
+YEM  ,"Iemen, el  ",Àsia occidental  ,Àsia  
+IRQ  ,"Iraq, l'  ",Àsia occidental  ,Àsia  
+ISR  ,Israel  ,Àsia occidental  ,Àsia  
+JOR  ,Jordània  ,Àsia occidental  ,Àsia  
+KWT  ,Kuwait  ,Àsia occidental  ,Àsia  
+LBN  ,Líban  ,Àsia occidental  ,Àsia  
+OMN  ,Oman  ,Àsia occidental  ,Àsia  
+QAT  ,Qatar  ,Àsia occidental  ,Àsia  
+SYR  ,Síria  ,Àsia occidental  ,Àsia  
+PSE  ,Territoris Palestins (o Palestina)  ,Àsia occidental  ,Àsia  
+TUR  ,Turquia  ,Àsia occidental  ,Àsia  
+CYP  ,Xipre  ,Àsia occidental  ,Àsia  
+PRK  ,Corea del Nord  ,Àsia oriental  ,Àsia  
+KOR  ,Corea del Sud  ,Àsia oriental  ,Àsia  
+JPN  ,Japó  ,Àsia oriental  ,Àsia  
+MNG  ,Mongòlia  ,Àsia oriental  ,Àsia  
+TWN  ,"Taiwan, Xinà  ",Àsia oriental  ,Àsia  
+CHN  ,Xina  ,Àsia oriental  ,Àsia  
+BRN  ,Brunei  ,Àsia sud-oriental  ,Àsia  
+KHM  ,Cambodja  ,Àsia sud-oriental  ,Àsia  
+PHL  ,Filipines  ,Àsia sud-oriental  ,Àsia  
+IDN  ,Indonèsia  ,Àsia sud-oriental  ,Àsia  
+LAO  ,Lao  ,Àsia sud-oriental  ,Àsia  
+MYS  ,Malàisia  ,Àsia sud-oriental  ,Àsia  
+MMR  ,Myanmar  ,Àsia sud-oriental  ,Àsia  
+SGP  ,Singapur  ,Àsia sud-oriental  ,Àsia  
+THA  ,Tailàndia  ,Àsia sud-oriental  ,Àsia  
+TLS  ,Timor-Leste  ,Àsia sud-oriental  ,Àsia  
+VNM  ,Vietnam  ,Àsia sud-oriental  ,Àsia  
+AUS  ,Austràlia  ,Austràlia i Nova Zelanda  ,Oceania  
+NZL  ,Nova Zelanda  ,Austràlia i Nova Zelanda  ,Oceania  
+FJI  ,Fiji  ,Melanèsia  ,Oceania  
+SLB  ,Illes Salomó  ,Melanèsia  ,Oceania  
+PNG  ,Papua Nova Guinea  ,Melanèsia  ,Oceania  
+VUT  ,Vanuatu  ,Melanèsia  ,Oceania  
+MHL  ,Illes Marshall  ,Micronèsia  ,Oceania  
+KIR  ,Kiribati  ,Micronèsia  ,Oceania  
+FSM  ,Micronèsia  ,Micronèsia  ,Oceania  
+NRU  ,Nauru  ,Micronèsia  ,Oceania  
+PLW  ,Palau  ,Micronèsia  ,Oceania  
+WSM  ,Samoa  ,Polinèsia  ,Oceania  
+TON  ,Tonga  ,Polinèsia  ,Oceania  
+TUV  ,Tuvalu  ,Polinèsia  ,Oceania 
