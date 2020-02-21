@@ -1,6 +1,9 @@
 # Barcelona-data
 Use the data sets from the Website Open Data BCN, the Ajuntament de Barcelona's open data service.  
 
+To discuss the difference of rent in each district, and to see if there's a relationship between the rent and the numbers of immigrants and their nationality.
+
+
 ## Data
 
 `data/`: the raw data from [Open Data BCN](https://opendata-ajuntament.barcelona.cat/) and [Reports and statistics documents from Catalonia government](https://www.bcn.cat/estadistica/angles/dades/inf/)
