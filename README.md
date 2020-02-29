@@ -1,7 +1,11 @@
 # Barcelona-data
 Use the data sets from the Website Open Data BCN, the Ajuntament de Barcelona's open data service.  
 
-To discuss the difference of rent in each district, and to see if there's a relationship between the rent and the numbers of immigrants and their nationality.
+Barcelona is an international city where has lots of immigrants from the world. Each neighborhood in Barcelona has its characteristics, so people from different countries will choose different neighborhoods for living. Also,  people from the same country or region tend to live nearby. When we walking on the street, it's easy to see the difference.
+
+
+`Barcelona_data.ipynb` discuss the difference of rent in each district, and the composition of nationality of the immigrants.
+Finally, to see if there's a relationship between them.
 
 
 ## Data
